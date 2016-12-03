@@ -41,7 +41,12 @@ Open the terminal and navigate to the assignment folder.
 python testProg.py
 ```
 It should run and give you an output chart similar to this:
-*It took the script 1:44 minutes to run om my computer 
+
+*It took the script 1:44 minutes to finish computations on my computer 
+SS = Selection Sort
+QSR = Quick Sort Random
+QSF = Quick Sort First
+IS = Insertion Sort
 ```
 Pair_Swap_Order
 _______________________
