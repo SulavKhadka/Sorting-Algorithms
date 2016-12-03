@@ -112,8 +112,6 @@ def main():
     pswpo = pair_swap_order(n, main_dict)
     rnd = random_n_order(n, main_dict)
 
-    print "\n", main_dict, "\n"
-
     output_tables(main_dict)
 
 main()
