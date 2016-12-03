@@ -106,7 +106,7 @@ _______________________
 ```
 ## Discussion
                       Best Case           Average Case            Worst Case
-
+```
 Selection Sort:       ~(n^2)/2            ~(n^2)/2               `~(n^2)/2
 
 Insertion Sort:       n                   ~(n^2)/2                ~(n^2)/2
