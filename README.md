@@ -12,7 +12,7 @@ You should see a menu like this:
 Please enter a number:
 ```
 Enter the number you would like to insert to your list and when you are done press enter instad of entering another number
-That should take you to the program menu
+That should take you to the program menu:
 ```
 ~~~~ WELCOME TO THE SORTER ~~~~
 Please enter a number: 5
@@ -31,5 +31,5 @@ Please enter a number:
 >Press Q to Quit
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Enter an option from the menu above:
-```
-Follow instructions as they appear on the terminal. and when ready to exit Press Q and Enter
+
+Follow instructions as they appear on the terminal. and when ready to exit--> Press Q and Enter
