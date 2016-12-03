@@ -30,6 +30,8 @@ Please enter a number:
 >Press F to change the initial list to sort
 >Press Q to Quit
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+```
+```
 Enter an option from the menu above:
-
+```
 Follow instructions as they appear on the terminal. and when ready to exit--> Press Q and Enter
