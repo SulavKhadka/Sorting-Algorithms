@@ -33,6 +33,4 @@ Please enter a number:
 ```
 Enter an option from the menu above:
 ```
-
-```
 Follow instructions as they appear on the terminal. and when ready to exit--> Press Q and Enter
