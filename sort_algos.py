@@ -128,7 +128,6 @@ if __name__ == "__main__":
         print_menu()
         opt_input = raw_input("Enter an option from the menu above: ")
         input_list = list(og_list)
-        print "INIT:", input_list
         counter = 0
         if opt_input.upper() == 'A':
             array = selection_sort(input_list, counter)
@@ -144,7 +143,10 @@ if __name__ == "__main__":
             print_list(array)
         elif opt_input.upper() == 'E':
             array = merge_sort(input_list, counter)
-            print_list(array)
+            print "[",
+            for i in array:
+                print i,
+            print "]"
         elif opt_input.upper() == 'F':
             og_list = user_input_list()
         elif opt_input.upper() == 'Q':
