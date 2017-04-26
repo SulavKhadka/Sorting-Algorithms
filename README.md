@@ -101,9 +101,8 @@ Reverse_Sort_Order:
 | 100      | 5250     | 400      | 4950     | 5000     | 
 | 800      | 322000   | 1348     | 319600   | 320350   | 
 
-```
 ## Discussion
-```
+
 |                    | Best Case          | Avg Case           | Worst Case         | 
 |--------------------|--------------------|--------------------|--------------------|
 | Selection Sort:    | ~(n^2)/2           | ~(n^2)/2           | ~(n^2)/2           |
@@ -111,6 +110,5 @@ Reverse_Sort_Order:
 | Quick Sort Random: | ~n*log(n)          | ~n*log(n)          |    ~n*log(n)       |
 | Quick Sort First:  | n                  | ~n*log(n)          |     ~n^2           |
 | Merge Sort:        | N/A                | N/A                |     N/A            |
-```
 
 After looking at comparisions over several runs it seems that these algorithm are for the most part relatively close to the Big O times we discussed in class about each algorithm. It always seems to be below the discussed runtime a constant factor some of which I couldn't pin-point. But overall they do seem to follow the runtime estimates we discussed in class. 
